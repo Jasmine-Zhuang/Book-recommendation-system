@@ -4,11 +4,11 @@ from the user. The program will be able to take in user feedback for dissatisfie
 This program uses python's tkinter package (“Tk interface”) to create GUI windows of finding clusters, finding recommended list of books.
 
 ## Python libraries required for this project:
-tkinter
-pandas
-networkx
-plotly
+- tkinter
+- pandas
+- networkx
+- plotly
 
 ## Testing and code checking
-python-ta~=1.6.3
+- python-ta~=1.6.3
 
