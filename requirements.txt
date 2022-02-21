@@ -1,0 +1,8 @@
+# CSC111 Winter 2020: Python libraries required for this project:
+tkinter
+pandas
+networkx
+plotly
+
+# Testing and code checking
+python-ta~=1.6.3
